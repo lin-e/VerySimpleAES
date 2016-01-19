@@ -5,10 +5,6 @@ No seriously, this is here because I wanted my program to look cleaner.
 I TAKE NO CREDIT FOR THE ENCRYPTION CODE
 ALL CREDIT GOES TO 'Arif Ansari' @ http://stackoverflow.com/a/19441805
 # Usage
-Referencing
-```
-using VerySimpleAES;
-```
 Example code for simple usage
 ```
 string toEncrypt = "Hello world!"; // Encrypts this.
